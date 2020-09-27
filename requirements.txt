@@ -1,0 +1,4 @@
+flask==1.1.1
+textblob==0.15.3
+lime==0.1.1.36
+spacy==2.1.8
